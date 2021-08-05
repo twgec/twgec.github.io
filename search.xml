@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/07/14/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>台灣綠能電機技師事務所--提供專業綠能電力設計與簽證</title>
+    <url>/2021/07/22/%E5%8F%B0%E7%81%A3%E7%B6%A0%E8%83%BD%E9%9B%BB%E6%A9%9F%E6%8A%80%E5%B8%AB%E4%BA%8B%E5%8B%99%E6%89%80/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://pilipiligroup.wordpress.com/pili-%e5%90%89%e7%a5%a5%e7%89%a9/">霹靂吉祥物</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="台灣綠能電機技師事務所"><a href="#台灣綠能電機技師事務所" class="headerlink" title="台灣綠能電機技師事務所"></a>台灣綠能電機技師事務所</h2><h3 id="台灣綠能電機技師事務所–提供專業綠能電力設計與簽證"><a href="#台灣綠能電機技師事務所–提供專業綠能電力設計與簽證" class="headerlink" title="台灣綠能電機技師事務所–提供專業綠能電力設計與簽證"></a>台灣綠能電機技師事務所–提供專業綠能電力設計與簽證</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
+<p>More info: <a href="https://pilipiligroup.wordpress.com/pili-%e5%90%89%e7%a5%a5%e7%89%a9/">霹靂吉祥物</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>雲林再生能源補貼</title>
+    <url>/2021/07/23/%E9%9B%B2%E6%9E%97%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E8%A3%9C%E8%B2%BC/</url>
+    <content><![CDATA[<p>aaaa<br>bbbbbbb<br>vvvvvvvvvvvvv<br>cccccccccccccc</p>
+]]></content>
+      <categories>
+        <category>雲林</category>
+      </categories>
   </entry>
 </search>
