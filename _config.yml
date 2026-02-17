@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 台灣綠能工程顧問有限公司(TWGEC)
+subtitle: '台灣綠能工程顧問為行政院核可特許營業項目I11061工程技術顧問業，工程技顧登字第001800號，主要致力於永續綠能，即使不容易，但我們相信我們正在做對的事'
+description: '台灣綠能工程顧問營業項目:綠能電力(太陽能、太陽光電、儲能與電動車充電樁電力規劃、沼氣併網申請與電力設計、電機技師設計簽證)設計、綠能電力送件、跑件'
+keywords: 電機技師、工程顧問、太陽能、太陽光電、充電樁、儲能、沼氣發電、綠電、跑件、送件、農業容許、漁業容許、綠能容許
+author: <A Target="_blank" Href="https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=90438496">台灣綠能工程顧問有限公司</A>
+language: zh-TW
 timezone: ''
 
 # URL
@@ -29,6 +29,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+    - law/*.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -40,7 +41,9 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+filter_image:
+    log:true
 relative_link: false
 future: true
 highlight:
@@ -97,11 +100,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+
 deploy:
   type: git
-  repo: git@github.com:twgec/twgec.git
+  repo: git@github.com:twgec/twgec.github.io.git
   branch: master
