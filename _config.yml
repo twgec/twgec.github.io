@@ -108,4 +108,4 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:twgec/twgec.github.io.git
-  branch: master
+  branch: main
